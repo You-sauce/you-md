@@ -2,7 +2,7 @@
 <h1 align="center">YOU MD BOT</h1>
 
 <p align="center">
-  <img src="https://h.uguu.se/HLtauNcE.jpg" width="300"/><br>
+  <img src="https://files.catbox.moe/rzbd7d.jpg" width="300"/><br>
   <b>ғᴀsᴛ, ᴘᴏᴡᴇʀғᴜʟ, ᴀɴᴅ sᴛʏʟɪsʜ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙᴜɪʟᴛ ғᴏʀ ғᴜɴ ᴀɴᴅ ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ.</b>
 </p>
 
