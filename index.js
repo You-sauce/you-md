@@ -3,7 +3,8 @@
  * Creator: popkid
  * Improvements: auto-reconnect, error guards, keep-alive, safe plugins
  */
-
+if (global.started) return;
+global.started = true;
 console.clear()
 console.log("📳 Starting YOU-MD...")
 
