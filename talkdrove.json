@@ -1,0 +1,25 @@
+{
+  "bot-name": "YOU-MD",
+  "description": "YOU-MD made for people on Earth",
+  "logo": "https://h.uguu.se/HLtauNcE.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://heinz-md-bot-pair.onrender.com",
+  "owner-verification": "yousauce274@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put session id",
+      "value": "",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot command prefix, (e.g, . , ! @ etc",
+      "value": ".",
+      "required": true  
+    },
+    "OWNER": {
+      "description": "premium users",
+      "value": "56945031186",
+      "required": false
+    }
+  }
+}
