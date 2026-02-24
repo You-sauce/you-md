@@ -13,11 +13,11 @@ const quotedContact = {
   },
   message: {
     contactMessage: {
-      displayName: "POP KIDS VERIFIED ✅",
+      displayName: "YOU TECHX VERIFIED ✅",
       vcard: `BEGIN:VCARD
 VERSION:3.0
-FN:POP KIDS VERIFIED ✅
-ORG:POP KIDS BOT;
+FN:YOU TECHX VERIFIED ✅
+ORG:YOU MD BOT;
 TEL;type=CELL;type=VOICE;waid=${config.OWNER_NUMBER || '0000000000'}:+${config.OWNER_NUMBER || '0000000000'}
 END:VCARD`
     }
