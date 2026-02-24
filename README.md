@@ -55,9 +55,14 @@
 name: Node.js Auto-Restart CI
 
 on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
   schedule:
-    - cron: '0 */6 * * *'   # Every 6 hours only
-  workflow_dispatch:      # Manual start
+    - cron: '0 */6 * * *'  # Every 6 hours
 
 jobs:
   build:
@@ -82,10 +87,17 @@ jobs:
     - name: Install FFmpeg
       run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
-    - name: Start bot (6 hours max)
+    - name: Start application with timeout
       run: |
-        echo "🚀 Starting bot..."
-        timeout 21600s npm start || echo "⏹ Bot stopped"
+        echo "🚀 Starting bot (will run max 6 hours)..."
+        timeout 21600s npm start || echo "⏹ Bot stopped or timed out"
+
+    - name: Auto-commit to trigger restart
+      run: |
+        git config --global user.email "autorestart@bot.com"
+        git config --global user.name "Auto Restart Bot"
+        git commit --allow-empty -m "⏱️ Automatic bot restart"
+        git push
 ```
 
 ---
