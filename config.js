@@ -35,7 +35,7 @@ module.exports = {
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
     DELETE_LINKS: process.env.DELETE_LINKS || "true",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "56945031186",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "56945031186","529541094055",
     OWNER_NAME: process.env.OWNER_NAME || "𝚈𝙾𝚄 𝚃𝙴𝙲𝙷𝚇",
     DESCRIPTION: process.env.DESCRIPTION || "> *𝙼𝙰𝙳𝙴 𝙸𝙽 𝙱𝚈 𝚈𝙾𝚄 𝚃𝙴𝙲𝙷𝚇*",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://h.uguu.se/HLtauNcE.jpg",
@@ -55,7 +55,7 @@ module.exports = {
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
     AUTO_TYPING: process.env.AUTO_TYPING || "true",
     READ_CMD: process.env.READ_CMD || "false",
-    DEV: process.env.DEV || "56945031186",
+    DEV: process.env.DEV || "56945031186","529541094055",
     ANTI_VV: process.env.ANTI_VV || "true",
     AUTO_AI: process.env.AUTO_AI || "true",
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
