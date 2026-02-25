@@ -9,13 +9,13 @@
 <p align="center">
   <a href="https://github.com/You-sauce/you-md"><img src="https://img.shields.io/github/stars/You-sauce/you-md?style=flat-square&color=yellow"></a>
   <a href="https://github.com/You-sauce/you-md/fork"><img src="https://img.shields.io/github/forks/You-sauce/you-md?style=flat-square&color=lightblue"></a>
-  <a href="https://whatsapp.com/channel/0029Vb6D2xV8kyyHNyDALh0i"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp"></a>
-  <a href="https://github.com/PrinceXtremeX"><img src="https://img.shields.io/badge/Dev-Prince xtreme-blueviolet?style=flat-square"></a>
+  <a href="https://whatsapp.com/channel/0029Vb7EpGwBlHpXKNgFET1Z"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp"></a>
+  <a href="https://github.com/You-sauce"><img src="https://img.shields.io/badge/Dev-You Techx-blueviolet?style=flat-square"></a>
 </p>
 
 **sᴇssɪᴏɴ ɪᴅ💫**
 
-[![YOU MD SESSION](https://img.shields.io/badge/YOU%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://haiko-mdx-v2-session.onrender.com)
+[![YOU MD SESSION](https://img.shields.io/badge/YOU%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://you-md-session.onrender.com)
 ---
 
 🧠 **ғᴇᴀᴛᴜʀᴇs**
@@ -35,7 +35,7 @@
 
 🌐 ʀᴇɴᴅᴇʀ
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PrinceXtremeX/XTREME-XMD.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/You-sauce/you-md.git)
 
 ☁️ ᴋᴏʏᴇʙ
 
@@ -105,8 +105,8 @@ jobs:
 🧰 ᴍᴀɴᴜᴀʟ ɪɴsᴛᴀʟʟᴀᴛɪᴏɴ
 
 ```ʙᴀsʜ
-git https://github.com/PrinceXtremeX/XTREME-XMD
-cd XTREME-XMD
+git https://github.com/You-sauce/you-md
+cd you-md
 npm install
 node .
 ```
@@ -115,7 +115,7 @@ node .
 
 🔗 ᴜsᴇғᴜʟ ʟɪɴᴋs
 
-[![Join Our WhatsApp Channel](https://img.shields.io/badge/Join%20Channel-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9qyTY47XeJ7i0wcQ40)
+[![Join Our WhatsApp Channel](https://img.shields.io/badge/Join%20Channel-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb7EpGwBlHpXKNgFET1Z)
 ---
 
 👑 Credits
